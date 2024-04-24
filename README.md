@@ -1,4 +1,4 @@
-# Dicom Reorganizer
+# Dicom Reorganizer (RUST)
 
 **Overview**
 
