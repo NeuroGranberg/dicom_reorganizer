@@ -42,8 +42,14 @@ This tool provides a powerful and flexible solution for reorganizing DICOM files
 
 4. **Install the generated Python package:**
    ```bash
-   pip install https://github.com/NeuroGranberg/dicom_reorganizer/blob/main/target/wheels/dicom_reorganizer-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl  
+   pip install target/wheels/<wheel_name>.whl  
    ```
+
+or simply download the weel from this repo [target/wheels/](https://github.com/NeuroGranberg/dicom_reorganizer/blob/main/target/wheels/) and install it:
+
+```bash
+pip install dicom_reorganizer-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl # or the name of the downlaoded weel 
+```
 
 ### Creating the CSV File
 
