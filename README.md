@@ -54,7 +54,7 @@ The tool requires a CSV file containing the following information about your DIC
 * **dicom_type:** Type of DICOM data (e.g., 'anat', 'func', 'dwi', etc.).
 * **current_path:** Current file path of the DICOM file.
 
-**You can generate this CSV file using a DICOM metadata extraction tool like [Dicom Metadata Extractor](https://neurogranberg.github.io/Nima_Documentation/Dicom Extractor/Usage/).**
+**You can generate this CSV file using a DICOM metadata extraction tool like [Dicom Metadata Extractor](https://neurogranberg.github.io/Nima_Documentation/Dicom%20Extractor/Usage/).**
 
 **Usage**
 
