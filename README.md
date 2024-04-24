@@ -26,7 +26,7 @@ This tool provides a powerful and flexible solution for reorganizing DICOM files
 
 1. **Clone or download the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/NeuroGranberg/dicom_reorganizer.git
    ```
 
 2. **Install Rust dependencies:**
